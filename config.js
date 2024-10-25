@@ -7,13 +7,13 @@ global.qris = "https://a.top4top.io/p_319465f4i0.jpeg"
 
 
 // GLOBAL SETTING
-global.owner = "2349125042727" //masukin no lu
-global.namabot = "ERROR-X.2 V4"
-global.nomorbot = "27623649420" //masukin no lu
-global.namaCreator = "ERROR-X.2 "
+global.owner = "919728893187" //masukin no lu
+global.namabot = "*ẉa🐰〽️ʀ🎧🆂ʌŋjʋ🎸||᭄★* V4"
+global.nomorbot = "919728893187" //masukin no lu
+global.namaCreator = "*ẉa.me/✫🐰〽️ʀ🎧🆂ʌŋjʋ🎸||᭄★* "
 global.linkyt = "-"
 global.autoJoin = false
-global.antilink = false
+global.antilink = true
 global.versisc = '2.0.0'
 
 // DELAY JPM
@@ -32,9 +32,9 @@ global.location = '1'
 
 global.codeInvite = ""
 global.imageurl = 'https://i.ibb.co/nBJY4Ny/IMG-20241017-WA0195-1.jpg'
-global.isLink = 'https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C'
-global.packname = "ERROR-X.2"
-global.author = "ERROR-X.2"
+global.isLink = 'https://chat.whatsapp.com/H87Tazc1bK6G6L4XuGLqAR'
+global.packname = "*ẉa.me/✫🐰〽️ʀ🎧🆂ʌŋjʋ🎸||᭄★*"
+global.author = "*ẉa.me/✫🐰〽️ʀ🎧🆂ʌŋjʋ🎸||᭄★*"
 global.jumlah = "5"
 
 
